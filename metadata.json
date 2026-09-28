@@ -1,0 +1,6 @@
+{
+  "name": "SheetPulse — Google Sheets Email Trigger & SMTP Extension Studio",
+  "description": "Configure cell-level data triggers, custom SMTP relay settings, and flexible recurring report schedules with a live spreadsheet sandbox and ready-to-deploy Google Apps Script extension generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
